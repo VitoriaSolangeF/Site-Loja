@@ -30,6 +30,7 @@ function Header({valor, onchange}) {
                 </div>
             </div>
         </header>
+        
     );
 }
 
