@@ -3,7 +3,7 @@ import React from "react";
 const Navbar = () => {
     return (
         <div className='sidenav active'>
-            <img src="./logoloja.png" alt="logo" className="logo" />
+            <img src="./iconekimaster.png" alt="logo" className="logo" />
             <ul>
                 <li>
                     <a href="/">Home</a>

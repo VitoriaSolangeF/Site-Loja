@@ -8,7 +8,7 @@ function Header({valor, onchange}) {
     return (
         <header className="header">
             <div className="container_menu">
-                <img className="logo" src="logoloja.png" alt="logo" />
+                <img className="logo" src="kimaster.png" alt="logo" />
                 <div className="input_search">
                     <div className="search">
                         <input 
